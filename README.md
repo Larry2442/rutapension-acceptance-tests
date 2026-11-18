@@ -4,8 +4,8 @@ Pruebas de aceptación en Gherkin del Cuarto Avance del curso 1ASI0786 Ingenier�
 
 | Archivo | HU | Épica | Tipo | Responsable (cuenta de GitHub) |
 |---|---|---|---|---|
-| HU01_registrar_un_periodo_laboral.feature | HU01 | EP01 | Funcional | Antonio Orosco |
-| HU02_editar_un_periodo_laboral.feature | HU02 | EP01 | Funcional | Antonio Orosco |
+| HU01_registrar_un_periodo_laboral.feature | HU01 | EP01 | Funcional | Antonio Orosco (Antonogokui) |
+| HU02_editar_un_periodo_laboral.feature | HU02 | EP01 | Funcional | Antonio Orosco (Antonogokui) |
 | HU03_eliminar_un_periodo_laboral.feature | HU03 | EP01 | Funcional | Luis Llanos |
 | HU07_adjuntar_un_documento_a_un_periodo.feature | HU07 | EP03 | Funcional | Jayro Gabira (jayro50-hash) |
 | HU08_ver_la_procedencia_de_un_dato.feature | HU08 | EP03 | Funcional | Jayro Gabira (jayro50-hash) |
