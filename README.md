@@ -12,7 +12,7 @@ Pruebas de aceptaci√≥n en Gherkin del Cuarto Avance del curso 1ASI0786 Ingenier√
 | HU09_reemplazar_un_documento.feature | HU09 | EP03 | Funcional | Luis Llanos |
 | HU22_ajustar_el_tamano_de_la_letra.feature | HU22 | EP08 | No funcional (usabilidad) | Larry Vergara (Larry2442) |
 | HU23_recibir_mensajes_en_lenguaje_sencillo.feature | HU23 | EP08 | No funcional (usabilidad) | Larry Vergara (Larry2442) |
-| HU24_usar_la_plataforma_desde_el_celular.feature | HU24 | EP08 | No funcional (portabilidad) | Uriel Pagaza |
+| HU24_usar_la_plataforma_desde_el_celular.feature | HU24 | EP08 | No funcional (portabilidad) | Uriel Pagaza (upagazar-netizen) |
 | HU26_cerrar_la_sesion_por_inactividad.feature | HU26 | EP09 | No funcional (seguridad) | Mark Vasquez (242-2006) |
 
 Cada archivo tiene un escenario normal, uno alterno y uno excepcional. Los escenarios con `Scenario Outline` usan tablas `Examples` con datos de prueba.
