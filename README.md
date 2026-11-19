@@ -6,10 +6,10 @@ Pruebas de aceptaci√≥n en Gherkin del Cuarto Avance del curso 1ASI0786 Ingenier√
 |---|---|---|---|---|
 | HU01_registrar_un_periodo_laboral.feature | HU01 | EP01 | Funcional | Antonio Orosco (Antonogokui) |
 | HU02_editar_un_periodo_laboral.feature | HU02 | EP01 | Funcional | Antonio Orosco (Antonogokui) |
-| HU03_eliminar_un_periodo_laboral.feature | HU03 | EP01 | Funcional | Luis Llanos |
+| HU03_eliminar_un_periodo_laboral.feature | HU03 | EP01 | Funcional | Luis Llanos (M0ond3r) |
 | HU07_adjuntar_un_documento_a_un_periodo.feature | HU07 | EP03 | Funcional | Jayro Gabira (jayro50-hash) |
 | HU08_ver_la_procedencia_de_un_dato.feature | HU08 | EP03 | Funcional | Jayro Gabira (jayro50-hash) |
-| HU09_reemplazar_un_documento.feature | HU09 | EP03 | Funcional | Luis Llanos |
+| HU09_reemplazar_un_documento.feature | HU09 | EP03 | Funcional | Luis Llanos (M0ond3r) |
 | HU22_ajustar_el_tamano_de_la_letra.feature | HU22 | EP08 | No funcional (usabilidad) | Larry Vergara (Larry2442) |
 | HU23_recibir_mensajes_en_lenguaje_sencillo.feature | HU23 | EP08 | No funcional (usabilidad) | Larry Vergara (Larry2442) |
 | HU24_usar_la_plataforma_desde_el_celular.feature | HU24 | EP08 | No funcional (portabilidad) | Uriel Pagaza (upagazar-netizen) |
